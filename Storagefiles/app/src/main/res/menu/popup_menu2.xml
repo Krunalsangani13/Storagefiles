@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/all"
+        android:title="all"
+        app:showAsAction="never"/>
+
+    <item
+        android:id="@+id/pdf"
+        android:title="pdf"
+        app:showAsAction="never"/>
+
+    <item
+        android:id="@+id/xlsx"
+        android:title="xlsx"
+        app:showAsAction="never"/>
+
+    <item
+        android:id="@+id/doc"
+        android:title="docx"
+        app:showAsAction="never"/>
+
+    <item
+        android:id="@+id/text"
+        android:title="txt"
+        app:showAsAction="never"/>
+
+</menu>
